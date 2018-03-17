@@ -2,7 +2,7 @@
   var config = {
     apiKey: "AIzaSyCL7KQDNY47RIBJqLlotAMimgbatFJ3B0c",
     authDomain: "test-8c45e.firebaseapp.com",
-    databaseURL: "https://test-8c45e.firebaseio.com",
+    databaseURL: "http://test-8c45e.firebaseio.com",
     projectId: "test-8c45e",
     storageBucket: "",
     messagingSenderId: "1003156258112"
